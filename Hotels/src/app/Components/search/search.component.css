@@ -1,0 +1,49 @@
+button.menu{
+    background-color: darkblue;
+    color: white;
+}
+
+div.ars{
+    color: rgb(224, 151, 15);
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+div.ars span{
+    font-size: 35px;
+}
+
+div.card-menu{
+    padding: 10px;
+    margin-bottom:5px;
+}
+
+div.card-menu2{    
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 0px;    
+}
+
+div.hotel-title{
+    color: #4da6ff;
+}
+
+div.linea{
+    border-left: dashed whitesmoke;
+    height: 250px;
+}
+
+div.lineah{
+    border-bottom: dashed whitesmoke;
+    height: 10px;
+}
+
+div.text-menu{
+    color: #4da6ff;
+}
+div.texto{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

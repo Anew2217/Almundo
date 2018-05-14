@@ -1,0 +1,10 @@
+div.cabeza{
+    background-color: darkblue;    
+    height: 80px;
+    padding: 20px;
+}
+
+div.cuerpo{
+    background-color: whitesmoke;
+    padding: 20px;
+}
